@@ -1,1 +1,3 @@
-# hackerrank_solutions
+# Solutions for hackerrank exercises.
+
+
