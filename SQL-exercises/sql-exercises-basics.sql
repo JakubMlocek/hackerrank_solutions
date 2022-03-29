@@ -97,3 +97,5 @@ WHERE LAT_N = (
     WHERE LAT_N < 137.2345
 )
 
+/*Query a count of the number of cities in CITY having a Population larger than .*/
+
